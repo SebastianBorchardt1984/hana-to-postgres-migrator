@@ -1,0 +1,7 @@
+C:\dev\DbMigration\src\main\java\com\example\migration\HanaMetadataService.java
+C:\dev\DbMigration\src\main\java\com\example\migration\HanaToPostgresTypeMapper.java
+C:\dev\DbMigration\src\main\java\com\example\migration\MigrationRunner.java
+C:\dev\DbMigration\src\main\java\com\example\migration\model\ColumnMeta.java
+C:\dev\DbMigration\src\main\java\com\example\migration\model\ForeignKeyMeta.java
+C:\dev\DbMigration\src\main\java\com\example\migration\model\TableMeta.java
+C:\dev\DbMigration\src\main\java\com\example\migration\PostgresSchemaService.java

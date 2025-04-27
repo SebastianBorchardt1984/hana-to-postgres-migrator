@@ -1,0 +1,8 @@
+com\example\migration\MigrationRunner.class
+com\example\migration\HanaMetadataService.class
+com\example\migration\PostgresSchemaService.class
+com\example\migration\model\ForeignKeyMeta.class
+META-INF\panache-archive.marker
+com\example\migration\HanaToPostgresTypeMapper.class
+com\example\migration\model\TableMeta.class
+com\example\migration\model\ColumnMeta.class
